@@ -1,0 +1,8 @@
+site_name: Pranav Shrestha Resume
+theme: readthedocs
+authors: Pranav Shrestha
+nav:
+  - Home: index.md
+  - Course Projects: courses/education.md
+  - Achievements: achievements.md
+  - Contact Me: contact.md
