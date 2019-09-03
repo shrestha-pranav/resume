@@ -1,8 +1,20 @@
 site_name: Pranav Shrestha Resume
-theme: readthedocs
-authors: Pranav Shrestha
+site_url: https://resume.shrestha.tech
+site_author: Pranav Shrestha
+
+theme:
+    name: readthedocs
+
+extra_css:
+  - css/extra.css
+
 nav:
   - Home: index.md
+  - Resume: resume.md
   - Course Projects: courses/education.md
   - Achievements: achievements.md
   - Contact Me: contact.md
+
+markdown_extensions:
+  - toc:
+      baselevel: 1
