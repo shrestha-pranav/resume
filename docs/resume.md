@@ -54,9 +54,8 @@ _Drone Computer Vision Team Intern_
 ##### HackMobile Finalist, Qualcomm <date>Jun 2018
 - Selected as a top 10 finalist by implementing an ultra-low cost, line-of-sight data transfer system using visible light 
 
-##### Google online foo.bar challenge winner
+##### Google online foo.bar challenge completed
 ##### Qualcomm monthly poker tournament winner
-##### Google Games winner
 ##### Finalist for Microsoft’s Last Slice challenge (top 1000) 
 ##### CIE A-Levels
 - Top in the world in AS Math (2016)

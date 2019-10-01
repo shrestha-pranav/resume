@@ -17,12 +17,14 @@ It was a well-established course - so, on one hand, course materials were quite 
 Besides design and migration to Python 3, I also actively tried to improve responsiveness throughout the course logistics. The average Piazza response time improved to 19 minutes in Summer 2019. 
 
 # Programming Challenges
-- Jan 2019
-- Achieved perfect scores on the BlindData adaptive programming test to win the $5000 grand prize (99th percentile)
 
-Google online foo.bar challenge winner
+__BlindData__
+
+Achieved perfect scores on the [BlindData adaptive programming](https://www.blinddata.com/) test to win the $5000 grand prize (99th percentile)
+
+__Microsoft Last Slice__
+
 Finalist for Microsoft’s Last Slice challenge (top 1000) 
-Google Games winner
 
 # Poker tournament
 # CIE A-Levels

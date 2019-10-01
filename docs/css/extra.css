@@ -14,6 +14,21 @@ h2 > hr {
     border: black 1px solid;
     margin: 6px 0 24px 0;
 }
+
+figcaption {
+
+}
+
+.image-blurred-edge {
+    background-image: url('/imgs/grays_peak_2019.jpg');
+    background-size: cover;
+    width: 600px;
+    height:200px;
+    -moz-box-shadow: inset white 0 0 5px 5px;
+    -webkit-box-shadow: inset white 0 0 5px 5px; 
+    box-shadow: inset white 0 0 5px 5px;
+}
+
 /* 
 h2 {
     margin-top: 24px;
